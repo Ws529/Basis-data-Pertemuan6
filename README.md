@@ -124,5 +124,4 @@ Perintah nya sama seperti diatas, hanya saja diganti menjadi `UNIQUE KEY`
 - Yaitu Untuk Menjelaskan Bahwa Pada Record yg `NO` Harus diisi , Sedangkan `YES` Boleh Tidak diisi.
 
 
-### Sekian Tugas Praktikum Saya di Pertemuan kali ini, Jika Masih Ada Yang Salah Saya Mohon Maaf.
-### Wassalamualaikum wr.wb. 
+
