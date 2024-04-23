@@ -88,7 +88,7 @@ Untuk mengganti nama tabel yaitu dengan perintah sebagai berikut :
 
 `ALTER TABLE [nama_tabel] RENAME [nama_tabel_baru];`
 
-[5 2](https://github.com/Ws529/Basis-data-Pertemuan6/assets/147570983/892c17c7-3bc9-4db0-8cc2-eb064b2f834a)
+![5 2](https://github.com/Ws529/Basis-data-Pertemuan6/assets/147570983/892c17c7-3bc9-4db0-8cc2-eb064b2f834a)
 
 **11. Ganti nama field id menjadi nim!**
 
