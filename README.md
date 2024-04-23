@@ -18,8 +18,8 @@ lalu, setelah kita membuat database. kita masuk kedalam database tersebut dengan
 
 `USE latihan2;`
 
-![alt text]![1 1](https://github.com/Ws529/Basis-data-Pertemuan6/assets/147570983/7b4d42ec-fc52-4232-b8be-d9e88fcfba9e)
-()
+![1 1](https://github.com/Ws529/Basis-data-Pertemuan6/assets/147570983/7b4d42ec-fc52-4232-b8be-d9e88fcfba9e)
+
 
 **2. Buat sebuah tabel dengan nama biodata (nama, alamat) didalam database latihan2!**
 
